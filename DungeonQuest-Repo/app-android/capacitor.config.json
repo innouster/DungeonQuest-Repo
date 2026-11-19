@@ -1,9 +1,0 @@
-{
-  "appId": "com.dungeonquest.game",
-  "appName": "Dungeon Quest",
-  "webDir": "www",
-  "backgroundColor": "#101820",
-  "android": {
-    "allowMixedContent": false
-  }
-}
