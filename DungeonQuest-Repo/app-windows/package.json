@@ -1,0 +1,27 @@
+{
+  "name": "dungeon-quest",
+  "version": "1.0.0",
+  "description": "Dungeon Quest - Windows build",
+  "main": "main.js",
+  "author": "Dungeon Quest",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable --x64 --publish never"
+  },
+  "devDependencies": {
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8"
+  },
+  "build": {
+    "appId": "com.dungeonquest.game",
+    "productName": "Dungeon Quest",
+    "artifactName": "DungeonQuest-Windows.${ext}",
+    "directories": { "output": "dist", "buildResources": "build" },
+    "files": ["main.js", "game/**/*"],
+    "win": {
+      "target": [{ "target": "portable", "arch": ["x64"] }],
+      "icon": "build/icon.png"
+    }
+  }
+}
