@@ -6,10 +6,10 @@ Game petualangan pixel-art. Tersedia untuk **Android** dan **Windows**. Gratis, 
 
 | Platform | Unduh langsung | Ukuran |
 |---|---|---|
-| 📱 **Android** | [**DungeonQuest-Android.apk**](https://github.com/USERNAME/REPO/releases/latest/download/DungeonQuest-Android.apk) | ± 15 MB |
-| 💻 **Windows** | [**DungeonQuest-Windows.exe**](https://github.com/USERNAME/REPO/releases/latest/download/DungeonQuest-Windows.exe) | ± 80 MB |
+| 📱 **Android** | [**DungeonQuest-Android.apk**](https://github.com/innouster/DungeonQuest-Repo/releases/latest/download/DungeonQuest-Android.apk) | ± 15 MB |
+| 💻 **Windows** | [**DungeonQuest-Windows.exe**](https://github.com/innouster/DungeonQuest-Repo/releases/latest/download/DungeonQuest-Windows.exe) | ± 80 MB |
 
-Semua versi: tab [**Releases**](https://github.com/USERNAME/REPO/releases).
+Semua versi: tab [**Releases**](https://github.com/innouster/DungeonQuest-Repo/releases).
 
 ---
 
@@ -64,3 +64,4 @@ app-windows/         ← pembungkus Windows (Electron)
 ```
 
 Panduan publish ke GitHub: lihat [`PANDUAN_PUBLISH.md`](PANDUAN_PUBLISH.md).
+
